@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260517211722M2DM75</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260517211722G34SLS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Los tesoros de Montellano</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Descubriendo el patrimonio de Montellano en 2º de Primaria a través del uso de herramientas digitales, el trabajo en equipo y la creatividad en el aula.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Jiménez Ramírez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Memoria de implementación de la situación de aprendizaje y análisis de datos digitales (Nivel B2).</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779044517008</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpa566nt-2w0scpokd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.Presentación y descripción.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.Presentación y descripción.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.Inicio y bienvenida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.Presentación y descripción.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566nt-2w0scpokd</odePageId>
+      <odeBlockId>block-1778758376462-i1b8y59jt</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566nt-2w0scpokd</odePageId>
+          <odeBlockId>block-1778758376462-i1b8y59jt</odeBlockId>
+          <odeIdeviceId>idevice-1778758376460-093n7pf73</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>LOS TESOROS DE MONTELLANO<br />¡Bienvenido/a a la Memoria de Implementación Digital!<br />En este espacio se recoge el proceso de aplicación de la situación de aprendizaje "Los Tesoros de Montellano", diseñada para el alumnado de 2º de Educación Primaria.</p>
+<p>A lo largo de estas páginas, se detallan las evidencias de las tareas realizadas, el análisis de los datos obtenidos mediante herramientas de evaluación digital y una reflexión profunda sobre la competencia digital docente (Nivel B2).</p>
+<p>¿Qué encontrarás en este recurso?</p>
+<p>Contexto: Cómo llevamos el proyecto al aula.<br />Análisis: Cómo los datos digitales han servido para mejorar mi enseñanza.<br />Feedback: La interacción con el alumnado y su autoevaluación.<br />Recursos: Enlaces y archivos para su consulta.</p>
+<p>Enlace: https://docs.google.com/document/d/17PK5Zvu0dDXyvB_VOQ9zsEj_MusZr9ksIP-WecwupkE/edit?usp=sharing</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778758376460-093n7pf73","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>LOS TESOROS DE MONTELLANO<br />¡Bienvenido/a a la Memoria de Implementación Digital!<br />En este espacio se recoge el proceso de aplicación de la situación de aprendizaje \"Los Tesoros de Montellano\", diseñada para el alumnado de 2º de Educación Primaria.</p>\n<p>A lo largo de estas páginas, se detallan las evidencias de las tareas realizadas, el análisis de los datos obtenidos mediante herramientas de evaluación digital y una reflexión profunda sobre la competencia digital docente (Nivel B2).</p>\n<p>¿Qué encontrarás en este recurso?</p>\n<p>Contexto: Cómo llevamos el proyecto al aula.<br />Análisis: Cómo los datos digitales han servido para mejorar mi enseñanza.<br />Feedback: La interacción con el alumnado y su autoevaluación.<br />Recursos: Enlaces y archivos para su consulta.</p>\n<p>Enlace: https://docs.google.com/document/d/17PK5Zvu0dDXyvB_VOQ9zsEj_MusZr9ksIP-WecwupkE/edit?usp=sharing</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpa566nt-2w0scpokd</odePageId>
+      <odeBlockId>block-1778758500854-ndv805t7h</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566nt-2w0scpokd</odePageId>
+          <odeBlockId>block-1778758500854-ndv805t7h</odeBlockId>
+          <odeIdeviceId>idevice-1778758500849-py5zsqajt</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778758500849-py5zsqajt" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-14 133451.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-14 133451.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778758500849-py5zsqajt","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-14 133451.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-14 133451.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpa566nt-2w0scpokd</odePageId>
+      <odeBlockId>block-1779040731609-k8xf9otg4</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566nt-2w0scpokd</odePageId>
+          <odeBlockId>block-1779040731609-k8xf9otg4</odeBlockId>
+          <odeIdeviceId>idevice-1779040731609-c4shbd0ja</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final del proyecto será la creación de un mapa interactivo digital y un portfolio de evidencias utilizando las herramientas Canva, Book Creator, Genially y Google Drive.</p>
+<p>El alumnado trabajará en grupos cooperativos para:</p>
+<ul>
+<li>Investigar y seleccionar de forma segura los principales "tesoros" e hitos del patrimonio histórico, cultural y natural de Montellano utilizando Symbaloo.</li>
+<li>Diseñar fichas visuales y atractivas en Canva para recoger la información y fotografías de cada monumento o lugar encontrado.</li>
+<li>Realizar una guía con la herramienta Book Creator.</li>
+<li>Crear un mapa interactivo en Genially donde, a través de botones digitales, se enlacen las fichas del patrimonio local.</li>
+<li>Recoger y organizar en carpetas compartidas de Google Drive (Portfolio) todas las medidas, datos matemáticos y avances obtenidos durante la salida al entorno.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779040731609-c4shbd0ja","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final del proyecto será la creación de un mapa interactivo digital y un portfolio de evidencias utilizando las herramientas Canva, Book Creator, Genially y Google Drive.</p>\n<p>El alumnado trabajará en grupos cooperativos para:</p>\n<ul>\n<li>Investigar y seleccionar de forma segura los principales \"tesoros\" e hitos del patrimonio histórico, cultural y natural de Montellano utilizando Symbaloo.</li>\n<li>Diseñar fichas visuales y atractivas en Canva para recoger la información y fotografías de cada monumento o lugar encontrado.</li>\n<li>Realizar una guía con la herramienta Book Creator.</li>\n<li>Crear un mapa interactivo en Genially donde, a través de botones digitales, se enlacen las fichas del patrimonio local.</li>\n<li>Recoger y organizar en carpetas compartidas de Google Drive (Portfolio) todas las medidas, datos matemáticos y avances obtenidos durante la salida al entorno.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa566nw-e1s1030ot</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2.Protección de datos.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Protección de datos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Protección de datos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566nw-e1s1030ot</odePageId>
+      <odeBlockId>block-1779041153462-9p5ffbwwv</odeBlockId>
+      <blockName>Protección de datos personales</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566nw-e1s1030ot</odePageId>
+          <odeBlockId>block-1779041153462-9p5ffbwwv</odeBlockId>
+          <odeIdeviceId>idevice-1779041153453-a0h77ubbh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cuando investigamos sobre los tesoros de Montellano utilizando internet y herramientas digitales, es fundamental que nos convirtamos en "Ciber-exploradores responsables". Para ello, en el aula seguimos unos pasos de seguridad:<br />Punto 1: ¡Llaves secretas! 🔑 Guarda muy bien tus contraseñas de las tablets y de Canva. No se las digas a nadie.<br />Punto 2: Escudo protector 🛡️ No publiques fotos con caras completas ni compartas datos de dónde vives o tu teléfono en las fichas digitales.<br />Punto 3: Supercompañeros 🤝 Respeta el trabajo de los demás grupos cuando uses el Drive compartido. ¡El trabajo en equipo es digital!<br />Punto 4: De dónde viene? 📸 Si usas una foto bonita del Castillo de Cotilla o de la Iglesia de Montellano, apunta en tu Symbaloo la web de donde la has cogido.<br />Punto 5: ¡SOS Maestro/a! 🙋‍♂️ Si la tablet hace algo raro o ves algo que no te gusta, avisa rápido al profe. ¡Estamos para ayudarte!</p>
+<p>https://canva.link/rlnm8oarzms9jez</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779041153453-a0h77ubbh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuando investigamos sobre los tesoros de Montellano utilizando internet y herramientas digitales, es fundamental que nos convirtamos en \"Ciber-exploradores responsables\". Para ello, en el aula seguimos unos pasos de seguridad:<br />Punto 1: ¡Llaves secretas! 🔑 Guarda muy bien tus contraseñas de las tablets y de Canva. No se las digas a nadie.<br />Punto 2: Escudo protector 🛡️ No publiques fotos con caras completas ni compartas datos de dónde vives o tu teléfono en las fichas digitales.<br />Punto 3: Supercompañeros 🤝 Respeta el trabajo de los demás grupos cuando uses el Drive compartido. ¡El trabajo en equipo es digital!<br />Punto 4: De dónde viene? 📸 Si usas una foto bonita del Castillo de Cotilla o de la Iglesia de Montellano, apunta en tu Symbaloo la web de donde la has cogido.<br />Punto 5: ¡SOS Maestro/a! 🙋‍♂️ Si la tablet hace algo raro o ves algo que no te gusta, avisa rápido al profe. ¡Estamos para ayudarte!</p>\n<p>https://canva.link/rlnm8oarzms9jez</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa566nx-bk9l2dqso</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3.Producto final.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.Producto final.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.Producto final.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566nx-bk9l2dqso</odePageId>
+      <odeBlockId>block-1779041399271-uoeocksbq</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566nx-bk9l2dqso</odePageId>
+          <odeBlockId>block-1779041399271-uoeocksbq</odeBlockId>
+          <odeIdeviceId>idevice-1779041399261-g0prkpked</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de esta Situación de Aprendizaje consistirá en el diseño y la publicación de un libro digital interactivo y una guía turística, titulados "Los Tesoros de Montellano", utilizando las herramientas Book Creator, Canva, Genially y Google Drive.</p>
+<p>El alumnado de 2º de Primaria trabajará de manera colaborativa en pequeños grupos para:</p>
+<p>-Diseñar un libro interactivo en Book Creator: Crear las páginas de nuestro propio libro digital, añadiendo dibujos, textos sencillos e incluso notas de voz de los propios alumnos explicando la historia de Montellano.<br />-Crear fichas visuales en Canva: Diseñar láminas descriptivas de los monumentos o lugares de interés investigados, integrando texto e imágenes del entorno local de forma muy visual.<br />-Maquetar un mapa interactivo en Genially: Reunir todas las fichas y el mapa del patrimonio bajo un soporte digital interactivo mediante botones multimedia que enlazan unos contenidos con otros.<br />-Organizar un portfolio digital en Google Drive: Recopilar de manera ordenada en carpetas compartidas en la nube todas las evidencias, audios, fotos y productos intermedios creados durante el proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779041399261-g0prkpked","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de esta Situación de Aprendizaje consistirá en el diseño y la publicación de un libro digital interactivo y una guía turística, titulados \"Los Tesoros de Montellano\", utilizando las herramientas Book Creator, Canva, Genially y Google Drive.</p>\n<p>El alumnado de 2º de Primaria trabajará de manera colaborativa en pequeños grupos para:</p>\n<p>-Diseñar un libro interactivo en Book Creator: Crear las páginas de nuestro propio libro digital, añadiendo dibujos, textos sencillos e incluso notas de voz de los propios alumnos explicando la historia de Montellano.<br />-Crear fichas visuales en Canva: Diseñar láminas descriptivas de los monumentos o lugares de interés investigados, integrando texto e imágenes del entorno local de forma muy visual.<br />-Maquetar un mapa interactivo en Genially: Reunir todas las fichas y el mapa del patrimonio bajo un soporte digital interactivo mediante botones multimedia que enlazan unos contenidos con otros.<br />-Organizar un portfolio digital en Google Drive: Recopilar de manera ordenada en carpetas compartidas en la nube todas las evidencias, audios, fotos y productos intermedios creados durante el proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa566ny-feh8zxo97</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4.Herramientas.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.Herramientas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.Herramientas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.Herramientas.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566ny-feh8zxo97</odePageId>
+      <odeBlockId>block-1779041662788-oa8zhs32i</odeBlockId>
+      <blockName>Herramientas para la curación de contenidos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566ny-feh8zxo97</odePageId>
+          <odeBlockId>block-1779041662788-oa8zhs32i</odeBlockId>
+          <odeIdeviceId>idevice-1779041662785-xe8zxek8b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el desarrollo de mi práctica docente utilizo Symbaloo con el objetivo de realizar una curación de contenidos adaptada a las necesidades del proyecto, creando un entorno digital seguro donde selecciono y organizo previamente recursos fiables como vídeos explicativos o mapas digitales que fomentan la autonomía en la investigación del alumnado de 2º de Primaria y sirven de andamiaje para la posterior creación de su libro digital en Book Creator. Puedes consultar el recurso en este enlace: <a href="https://www.symbaloo.com/mix/exploradores-montellano">https://www.symbaloo.com/mix/exploradores-montellano</a> </p>
+<p>Por otro lado, empleo Wakelet a nivel profesional para recopilar, clasificar y estructurar las evidencias de aprendizaje, los materiales didácticos y los recursos de gestión diaria en el aula, optimizando así mi flujo de trabajo como maestra y disponiendo de un repositorio organizado que me facilita el intercambio de experiencias y la colaboración directa con otros compañeros de la comunidad educativa. Puedes consultar la colección en este enlace: <a href="https://wakelet.com/wake/D3izqHlAmrj8668xd25i5">https://wakelet.com/wake/D3izqHlAmrj8668xd25i5 </a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779041662785-xe8zxek8b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el desarrollo de mi práctica docente utilizo Symbaloo con el objetivo de realizar una curación de contenidos adaptada a las necesidades del proyecto, creando un entorno digital seguro donde selecciono y organizo previamente recursos fiables como vídeos explicativos o mapas digitales que fomentan la autonomía en la investigación del alumnado de 2º de Primaria y sirven de andamiaje para la posterior creación de su libro digital en Book Creator. Puedes consultar el recurso en este enlace: <a href=\"https://www.symbaloo.com/mix/exploradores-montellano\">https://www.symbaloo.com/mix/exploradores-montellano</a> </p>\n<p>Por otro lado, empleo Wakelet a nivel profesional para recopilar, clasificar y estructurar las evidencias de aprendizaje, los materiales didácticos y los recursos de gestión diaria en el aula, optimizando así mi flujo de trabajo como maestra y disponiendo de un repositorio organizado que me facilita el intercambio de experiencias y la colaboración directa con otros compañeros de la comunidad educativa. Puedes consultar la colección en este enlace: <a href=\"https://wakelet.com/wake/D3izqHlAmrj8668xd25i5\">https://wakelet.com/wake/D3izqHlAmrj8668xd25i5 </a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa566ny-gu3qqc9yj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5.Temporalización.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.Temporalización.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.Temporalización.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566ny-gu3qqc9yj</odePageId>
+      <odeBlockId>block-1779042090326-7ad9h441e</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566ny-gu3qqc9yj</odePageId>
+          <odeBlockId>block-1779042090326-7ad9h441e</odeBlockId>
+          <odeIdeviceId>idevice-1779042090324-4gn12zph9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Situación de Aprendizaje "Los Tesoros de Montellano" se desarrolla a lo largo de dos semanas, distribuidas en una secuencia didáctica de 5 sesiones principales diseñadas para respetar el ritmo de aprendizaje del alumnado de 2º de Primaria. Para que la organización resulte visual y accesible para el grupo-clase, se ha diseñado una línea temporal digital que marca los hitos del proyecto, estructurando el trabajo desde la investigación inicial segura hasta la publicación definitiva del libro digital interactivo. Puedes consultar el recurso completo en este enlace:  <a href="https://canva.link/ty458msz83og717">https://canva.link/ty458msz83og717</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779042090324-4gn12zph9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Situación de Aprendizaje \"Los Tesoros de Montellano\" se desarrolla a lo largo de dos semanas, distribuidas en una secuencia didáctica de 5 sesiones principales diseñadas para respetar el ritmo de aprendizaje del alumnado de 2º de Primaria. Para que la organización resulte visual y accesible para el grupo-clase, se ha diseñado una línea temporal digital que marca los hitos del proyecto, estructurando el trabajo desde la investigación inicial segura hasta la publicación definitiva del libro digital interactivo. Puedes consultar el recurso completo en este enlace:  <a href=\"https://canva.link/ty458msz83og717\">https://canva.link/ty458msz83og717</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa566o0-jmu3atwfk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6.Atención a la diversidad.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.Atención a la diversidad.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.Archivos y enlaces</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.Atención a la diversidad.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566o0-jmu3atwfk</odePageId>
+      <odeBlockId>block-1779044036081-07tljdsn0</odeBlockId>
+      <blockName>Atención a la diversidad con el DUA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566o0-jmu3atwfk</odePageId>
+          <odeBlockId>block-1779044036081-07tljdsn0</odeBlockId>
+          <odeIdeviceId>idevice-1779044036080-ou3h1rwo6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tarea 1 - "Calentando motores" (Symbaloo): En esta primera actividad usamos Symbaloo porque, en vez de obligar a los niños de 2º a escribir y buscar en Google, les ofrece un tablero con iconos llenos de dibujos y colores muy fáciles de entender. Esto ayuda muchísimo a los alumnos que se distraen o que todavía no leen con soltura, ya que entran directos a la información de Montellano sin perderse y de forma segura.<br />Tarea 2 - "Escribiendo y creando" (Canva): Al diseñar las fichas de los monumentos en Canva, los niños que tienen dificultades con la letra o la escritura a mano pueden crear un trabajo precioso simplemente arrastrando fotos y usando las plantillas del programa. Además, al trabajar en grupos cooperativos, cada alumno aporta según lo que mejor se le da: uno busca las fotos, otro ayuda con las palabras cortas y otro elige los colores.<br />Tarea 3 - "Viajamos" (Genially): Con el mapa interactivo de Genially hacemos que la información no sea un simple texto aburrido, sino algo visual que se puede tocar. Los niños que necesitan más apoyos visuales entienden mucho mejor la historia y dónde están los monumentos del pueblo gracias a los botones interactivos, las flechas y los mapas de colores.<br />Tarea 4 - "Manos a la obra" (Salida y Google Drive): En la excursión por Montellano salimos a la calle a medir y hacer fotos, lo cual rompe con la rutina de estar sentados y motiva muchísimo a todo el alumnado. A la hora de apuntar los datos matemáticos en las carpetas compartidas de Drive, permitimos que los niños usen el dictado por voz de las tablets o hagan fotos de sus mediciones, evitando que la escritura sea una barrera en la calle.<br />Tarea 5 - "Nuestro trabajo" (Book Creator y Autoevaluación): Montar el libro final en Book Creator es fantástico para la inclusión, porque los alumnos que aún no saben escribir bien pueden grabar su propia voz con la tablet contando la historia del Castillo de Cotilla o la iglesia. Para terminar, usamos la Diana de Autoevaluación, que al ser un dibujo para colorear les permite valorar cómo han trabajado en equipo de una forma súper fácil y visual sin tener que leer textos complejos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779044036080-ou3h1rwo6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tarea 1 - \"Calentando motores\" (Symbaloo): En esta primera actividad usamos Symbaloo porque, en vez de obligar a los niños de 2º a escribir y buscar en Google, les ofrece un tablero con iconos llenos de dibujos y colores muy fáciles de entender. Esto ayuda muchísimo a los alumnos que se distraen o que todavía no leen con soltura, ya que entran directos a la información de Montellano sin perderse y de forma segura.<br />Tarea 2 - \"Escribiendo y creando\" (Canva): Al diseñar las fichas de los monumentos en Canva, los niños que tienen dificultades con la letra o la escritura a mano pueden crear un trabajo precioso simplemente arrastrando fotos y usando las plantillas del programa. Además, al trabajar en grupos cooperativos, cada alumno aporta según lo que mejor se le da: uno busca las fotos, otro ayuda con las palabras cortas y otro elige los colores.<br />Tarea 3 - \"Viajamos\" (Genially): Con el mapa interactivo de Genially hacemos que la información no sea un simple texto aburrido, sino algo visual que se puede tocar. Los niños que necesitan más apoyos visuales entienden mucho mejor la historia y dónde están los monumentos del pueblo gracias a los botones interactivos, las flechas y los mapas de colores.<br />Tarea 4 - \"Manos a la obra\" (Salida y Google Drive): En la excursión por Montellano salimos a la calle a medir y hacer fotos, lo cual rompe con la rutina de estar sentados y motiva muchísimo a todo el alumnado. A la hora de apuntar los datos matemáticos en las carpetas compartidas de Drive, permitimos que los niños usen el dictado por voz de las tablets o hagan fotos de sus mediciones, evitando que la escritura sea una barrera en la calle.<br />Tarea 5 - \"Nuestro trabajo\" (Book Creator y Autoevaluación): Montar el libro final en Book Creator es fantástico para la inclusión, porque los alumnos que aún no saben escribir bien pueden grabar su propia voz con la tablet contando la historia del Castillo de Cotilla o la iglesia. Para terminar, usamos la Diana de Autoevaluación, que al ser un dibujo para colorear les permite valorar cómo han trabajado en equipo de una forma súper fácil y visual sin tener que leer textos complejos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa566o2-z56cpyc76</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7.Criterios de evaluación.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.Criterios de evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Implementación y situación de aprendizaje.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7.Criterios de evaluación.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566o2-z56cpyc76</odePageId>
+      <odeBlockId>block-1778757322764-1palum7yi</odeBlockId>
+      <blockName>Evaluamos las actividades con unos criterios de evaluación</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566o2-z56cpyc76</odePageId>
+          <odeBlockId>block-1778757322764-1palum7yi</odeBlockId>
+          <odeIdeviceId>idevice-1778757322761-ms47cbogx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las actividades digitales planteadas en este proyecto están directamente vinculadas con los criterios de evaluación establecidos en el currículo para el primer ciclo de Educación Primaria. Esto garantiza un proceso de enseñanza-aprendizaje con un enfoque competencial, coherente y plenamente integrado en las distintas áreas involucradas. El enlace para consultar cómo evaluamos con criterios las actividades se expone a continuación: <a href="https://docs.google.com/document/d/1M-9OhbVO4moXohXJ71HJsl0PeuVM3cSNmwaq0FlMBtg/edit?usp=sharing">https://docs.google.com/document/d/1M-9OhbVO4moXohXJ71HJsl0PeuVM3cSNmwaq0FlMBtg/edit?usp=sharing</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778757322761-ms47cbogx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las actividades digitales planteadas en este proyecto están directamente vinculadas con los criterios de evaluación establecidos en el currículo para el primer ciclo de Educación Primaria. Esto garantiza un proceso de enseñanza-aprendizaje con un enfoque competencial, coherente y plenamente integrado en las distintas áreas involucradas. El enlace para consultar cómo evaluamos con criterios las actividades se expone a continuación: <a href=\"https://docs.google.com/document/d/1M-9OhbVO4moXohXJ71HJsl0PeuVM3cSNmwaq0FlMBtg/edit?usp=sharing\">https://docs.google.com/document/d/1M-9OhbVO4moXohXJ71HJsl0PeuVM3cSNmwaq0FlMBtg/edit?usp=sharing</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa566o4-39bdkbw6h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8.Instrumentos de evaluación.</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.Instrumentos de evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.Análisis de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8.Instrumentos de evaluación.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566o4-39bdkbw6h</odePageId>
+      <odeBlockId>block-1778757470332-gbhv3zlnk</odeBlockId>
+      <blockName>Instrumentos para la evaluación</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566o4-39bdkbw6h</odePageId>
+          <odeBlockId>block-1778757470332-gbhv3zlnk</odeBlockId>
+          <odeIdeviceId>idevice-1778757470328-v6ime4f8s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para garantizar una evaluación competencial, formativa y compartida en el proyecto "Los Tesoros de Montellano", se han diseñado instrumentos de evaluación específicos adaptados al alumnado de 2º de Primaria. Contamos con una rúbrica de evaluación y una diana de evaluación que pueden consultar en el siguiente enlace: <a href="https://docs.google.com/document/d/1Ss-urFzWHbjRotdVtcf0HvRotdyuyTnUCRIFbId8xHM/edit?usp=sharing">https://docs.google.com/document/d/1Ss-urFzWHbjRotdVtcf0HvRotdyuyTnUCRIFbId8xHM/edit?usp=sharing</a> </p>
+<p><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778757470328-v6ime4f8s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para garantizar una evaluación competencial, formativa y compartida en el proyecto \"Los Tesoros de Montellano\", se han diseñado instrumentos de evaluación específicos adaptados al alumnado de 2º de Primaria. Contamos con una rúbrica de evaluación y una diana de evaluación que pueden consultar en el siguiente enlace: <a href=\"https://docs.google.com/document/d/1Ss-urFzWHbjRotdVtcf0HvRotdyuyTnUCRIFbId8xHM/edit?usp=sharing\">https://docs.google.com/document/d/1Ss-urFzWHbjRotdVtcf0HvRotdyuyTnUCRIFbId8xHM/edit?usp=sharing</a> </p>\n<p><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa566o5-yrrzlakgh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9.Créditos.</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9.Créditos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.Evaluación y feedback</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>9.Créditos.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566o5-yrrzlakgh</odePageId>
+      <odeBlockId>block-1778757900703-eozharmsq</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566o5-yrrzlakgh</odePageId>
+          <odeBlockId>block-1778757900703-eozharmsq</odeBlockId>
+          <odeIdeviceId>idevice-1778757900697-0weezbtlt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Ana Jiménez Ramírez.</p>
+<p>Descripción: Memoria de implementación digital y recurso educativo abierto (REA) basado en la Situación de Aprendizaje "Los Tesoros de Montellano" para 2º de Educación Primaria.</p>
+<p>Licencia: Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>
+<p>Este recurso digital ha sido creado con fines puramente educativos y de certificación docente. Puede ser utilizado, copiado, modificado y adaptado por cualquier miembro de la comunidad educativa, siempre que se cite la autoría original y se comparta bajo la misma licencia.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778757900697-0weezbtlt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Ana Jiménez Ramírez.</p>\n<p>Descripción: Memoria de implementación digital y recurso educativo abierto (REA) basado en la Situación de Aprendizaje \"Los Tesoros de Montellano\" para 2º de Educación Primaria.</p>\n<p>Licencia: Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>\n<p>Este recurso digital ha sido creado con fines puramente educativos y de certificación docente. Puede ser utilizado, copiado, modificado y adaptado por cualquier miembro de la comunidad educativa, siempre que se cite la autoría original y se comparta bajo la misma licencia.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpa566o5-yrrzlakgh</odePageId>
+      <odeBlockId>block-1779043574215-oahxkunbw</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566o5-yrrzlakgh</odePageId>
+          <odeBlockId>block-1779043574215-oahxkunbw</odeBlockId>
+          <odeIdeviceId>idevice-1779043574214-5c53em29m</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tesoros de Montellano</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Memoria de implementación de la situación de aprendizaje y análisis de datos digitales (Nivel B2).</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ana Jiménez Ramírez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa566o6-nmcdq68hl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>10.Guía didáctica.</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10.Guía didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10.Guía didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa566o6-nmcdq68hl</odePageId>
+      <odeBlockId>block-1779043844152-quajqcrjw</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566o6-nmcdq68hl</odePageId>
+          <odeBlockId>block-1779043844152-quajqcrjw</odeBlockId>
+          <odeIdeviceId>idevice-1779043844151-vdtc7y05l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje está diseñada con un enfoque competencial, interdisciplinar y multimodal para el alumnado de 2º de Educación Primaria. Su propósito fundamental es guiar a los estudiantes en el descubrimiento del patrimonio cultural, natural e histórico de su localidad mientras desarrollan su competencia digital y el trabajo cooperativo de forma integrada en las áreas de Conocimiento del Medio, Lengua Castellana y Matemáticas.</p>
+<p>A continuación, se detalla la matriz curricular que vincula directamente cada una de las tareas propuestas con los criterios de evaluación correspondientes y los recursos digitales utilizados como andamiaje técnico:</p>
+<p>Tarea 1 - "Calentando motores" (Investigación en Symbaloo): Vinculada al criterio CM.02.01 (Seleccionar y organizar información sobre el patrimonio natural y cultural) y CM.01.01 (Uso seguro y responsable de recursos digitales). Se facilita un Webmix con enlaces seguros para fomentar su autonomía guiada.<br />Tarea 2 - "Escribiendo y creando" (Fichas en Canva): Vinculada al criterio LCL.03.04 (Producir textos escritos y contenidos multimodales sencillos). Los alumnos redactan descripciones de los monumentos integrando texto y elementos visuales.<br />Tarea 3 - "Viajamos" (Mapa en Genially): Vinculada al criterio LCL.01.01 (Producir mensajes orales y contenidos multimodales con claridad). Permite maquetar de forma espacial y mediante botones interactivos la información recopilada.<br />Tarea 4 - "Manos a la obra" (Medición en el entorno y Google Drive): Vinculada al criterio MA.01.01 (Resolver problemas de la vida cotidiana de forma colaborativa). Implica la recogida cooperativa de datos reales y matemáticos sobre el terreno usando un documento en la nube.<br />Tarea 5 - "Nuestro trabajo" (Portfolio final en Google Drive y Book Creator): Vinculada al criterio CM.01.01 (Utilizar recursos digitales de forma segura). Supone la organización de las evidencias en su espacio personal y el volcado en el libro digital definitivo.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779043844151-vdtc7y05l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje está diseñada con un enfoque competencial, interdisciplinar y multimodal para el alumnado de 2º de Educación Primaria. Su propósito fundamental es guiar a los estudiantes en el descubrimiento del patrimonio cultural, natural e histórico de su localidad mientras desarrollan su competencia digital y el trabajo cooperativo de forma integrada en las áreas de Conocimiento del Medio, Lengua Castellana y Matemáticas.</p>\n<p>A continuación, se detalla la matriz curricular que vincula directamente cada una de las tareas propuestas con los criterios de evaluación correspondientes y los recursos digitales utilizados como andamiaje técnico:</p>\n<p>Tarea 1 - \"Calentando motores\" (Investigación en Symbaloo): Vinculada al criterio CM.02.01 (Seleccionar y organizar información sobre el patrimonio natural y cultural) y CM.01.01 (Uso seguro y responsable de recursos digitales). Se facilita un Webmix con enlaces seguros para fomentar su autonomía guiada.<br />Tarea 2 - \"Escribiendo y creando\" (Fichas en Canva): Vinculada al criterio LCL.03.04 (Producir textos escritos y contenidos multimodales sencillos). Los alumnos redactan descripciones de los monumentos integrando texto y elementos visuales.<br />Tarea 3 - \"Viajamos\" (Mapa en Genially): Vinculada al criterio LCL.01.01 (Producir mensajes orales y contenidos multimodales con claridad). Permite maquetar de forma espacial y mediante botones interactivos la información recopilada.<br />Tarea 4 - \"Manos a la obra\" (Medición en el entorno y Google Drive): Vinculada al criterio MA.01.01 (Resolver problemas de la vida cotidiana de forma colaborativa). Implica la recogida cooperativa de datos reales y matemáticos sobre el terreno usando un documento en la nube.<br />Tarea 5 - \"Nuestro trabajo\" (Portfolio final en Google Drive y Book Creator): Vinculada al criterio CM.01.01 (Utilizar recursos digitales de forma segura). Supone la organización de las evidencias en su espacio personal y el volcado en el libro digital definitivo.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpa566o6-nmcdq68hl</odePageId>
+      <odeBlockId>block-1779043933822-5l04ezshh</odeBlockId>
+      <blockName>Recomendaciones</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa566o6-nmcdq68hl</odePageId>
+          <odeBlockId>block-1779043933822-5l04ezshh</odeBlockId>
+          <odeIdeviceId>idevice-1779043933821-ln31wwa75</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Andamiaje Técnico: Al trabajar con niños de 2º de Primaria, es indispensable realizar un modelado previo de cada herramienta en la pizarra digital antes de la práctica autónoma en las tablets. El uso de Symbaloo es clave para evitar distracciones en internet.<br />Inclusión y Flexibilidad: El uso de herramientas multimodales como Book Creator (que permite grabar notas de voz directas) sirve como un elemento de inclusión fantástico para aquellos alumnos que aún presenten dificultades en el proceso de lectoescritura, garantizando que todo el grupo pueda aportar al reto final.<br />Gestión del Tiempo: Las sesiones de Canva y Genially pueden requerir flexibilidad según el nivel de alfabetización digital previa del grupo. Se aconseja fomentar la figura del "ayudante técnico" dentro de los equipos cooperativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779043933821-ln31wwa75","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Andamiaje Técnico: Al trabajar con niños de 2º de Primaria, es indispensable realizar un modelado previo de cada herramienta en la pizarra digital antes de la práctica autónoma en las tablets. El uso de Symbaloo es clave para evitar distracciones en internet.<br />Inclusión y Flexibilidad: El uso de herramientas multimodales como Book Creator (que permite grabar notas de voz directas) sirve como un elemento de inclusión fantástico para aquellos alumnos que aún presenten dificultades en el proceso de lectoescritura, garantizando que todo el grupo pueda aportar al reto final.<br />Gestión del Tiempo: Las sesiones de Canva y Genially pueden requerir flexibilidad según el nivel de alfabetización digital previa del grupo. Se aconseja fomentar la figura del \"ayudante técnico\" dentro de los equipos cooperativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
